@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Keny Foods</string>
+    <string name="food_list_title">Our Menu</string>
+    <string name="order_food_title">food</string>
+    <string name="image_of_the_food_item">Image of the food.</string>
+    <string name="food_name">Food name</string>
+    <string name="food_description">Food description</string>
+    <string name="def_price">000</string>
+    <string name="increment_quantity_button">Add Quantity</string>
+    <string name="decrement_quantity_button">Reduce Quantity</string>
+    <string name="_10">1</string>
+    <string name="_1">1</string>
+    <string name="Order_btn">Place Order</string>
+    <string name="Price_Unit">UGX</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="login_btn">Login</string>
+    <string name="password_hint">Enter password</string>
+    <string name="email_hint">Enter email</string>
+    <string name="login_title">Keny Foods</string>
+    <string name="sign_up">Create Account</string>
+    <string name="name_hint">Full Name</string>
+    <string name="have_account">Already have an Account?</string>
+    <string name="new_user">Are you new?Create Account</string>
+</resources>
